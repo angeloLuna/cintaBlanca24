@@ -1,0 +1,28 @@
+body{
+	margin:0;
+}
+
+.navegacion{
+	/*border: 1px solid red;*/
+	padding-left: 50%;
+	background: #437fa8;
+	height: 50px;
+	padding-top: 15px;
+	border-bottom: 3px solid #315670;
+}
+
+.menu{
+	/*border: solid 1px blue;*/
+	width: 500px;
+	padding: 0;
+	margin: 0;
+}
+
+li{
+	/*border: 1px solid pink;*/
+	display: inline-block;
+	margin-left: 40px;
+	color: white;
+	font-family: arial;
+	font-size: 22px;
+}

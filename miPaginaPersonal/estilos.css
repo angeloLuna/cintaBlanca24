@@ -1,0 +1,40 @@
+/*sirve para comprobar la conexion de estilos con index*/
+/* * {
+	background: purple;
+} */
+
+body{
+	background: #418caf;
+}
+
+img {
+	width: 500px;
+	/*width: 50%;*/
+
+}
+
+h1 {
+	font-size: 50px;
+	color: purple;
+	text-align: center;
+}
+
+p {
+	font-family: arial;
+}
+
+
+strong{
+	color: red;
+	font-size: 24px;
+}
+
+
+
+
+
+
+
+
+
+
