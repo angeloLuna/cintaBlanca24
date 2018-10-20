@@ -1,0 +1,32 @@
+.colonia{
+  border: 1px solid;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cuadra{
+  border: 1px solid red;
+  width: 50%;
+  height: 400px;
+  display: flex;
+}
+
+.c-row{
+  /* alineación horizontal */
+  justify-content: center;
+  /* alineación vertical */
+  align-items: center;
+}
+
+.c-column{
+  flex-direction: column;
+  /* alineación horizontal */
+  justify-content: center;
+  /* alineación vertical */
+  align-items: center;
+}
+
+.casa{
+  border: solid 3px blue;
+  height: 50px;
+}
