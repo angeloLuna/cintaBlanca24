@@ -1,0 +1,17 @@
+
+.colonia{
+  border: 1px solid;
+}
+
+.cuadra{
+  border: 1px solid blue;
+}
+
+.cuadro{
+  border: 2px solid;
+}
+
+.contenedor{
+  display: flex;
+  justify-content: space-around;
+}
